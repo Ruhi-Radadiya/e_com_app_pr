@@ -10,6 +10,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 12
   },
   {
     'image': "assets/images/data/img_1.png",
@@ -21,6 +23,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "12.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 16
   },
   {
     'image': "assets/images/data/img_11.png",
@@ -32,6 +36,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 26
   },
   {
     'image': "assets/images/data/img_12.png",
@@ -43,6 +49,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.4",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 27
   },
   //dining table
   {
@@ -55,6 +63,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "11.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 9
   },
   {
     'image': "assets/images/home_page2/img_1.png",
@@ -66,6 +76,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "11.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 12
   },
   {
     'image': "assets/images/home_page2/img_2.png",
@@ -77,6 +89,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "11.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 67
   },
   {
     'image': "assets/images/home_page2/img_4.png",
@@ -88,6 +102,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "11.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 34
   },
   //bed
   {
@@ -100,6 +116,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 45
   },
   {
     'image': "assets/images/home_page2/img_3.png",
@@ -111,6 +129,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 34
   },
   {
     'image': "assets/images/home_page2/img_5.png",
@@ -122,6 +142,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 17
   },
   {
     'image': "assets/images/data/img_13.png",
@@ -133,6 +155,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "17.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 34
   },
   //table
   {
@@ -145,6 +169,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 56
   },
   {
     'image': "assets/images/data/img_3.png",
@@ -156,6 +182,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 19
   },
   {
     'image': "assets/images/home_page2/img_6.png",
@@ -167,6 +195,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 20
   },
   {
     'image': "assets/images/home_page2/img_7.png",
@@ -178,6 +208,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 28
   },
   //clock
   {
@@ -190,6 +222,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "2.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 50
   },
   {
     'image': "assets/images/home_page2/img_8.png",
@@ -201,6 +235,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "2.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 10
   },
   {
     'image': "assets/images/home_page2/img_9.png",
@@ -212,6 +248,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "2.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 45
   },
   {
     'image': "assets/images/data/img_17.png",
@@ -223,6 +261,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "7.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 89
   },
   //cupboard
   {
@@ -235,6 +275,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "15.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 17
   },
   {
     'image': "assets/images/home_page2/img_10.png",
@@ -246,6 +288,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "15.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 63
   },
   {
     'image': "assets/images/home_page2/img_11.png",
@@ -257,6 +301,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "15.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 12
   },
   {
     'image': "assets/images/data/img_16.png",
@@ -268,6 +314,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "8.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 19
   },
   //chair
   {
@@ -280,6 +328,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "22.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 42
   },
   {
     'image': "assets/images/home_page2/img_12.png",
@@ -291,6 +341,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "22.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 38
   },
   {
     'image': "assets/images/home_page2/img_13.png",
@@ -302,6 +354,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "22.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 28
   },
   {
     'image': "assets/images/data/img_5.png",
@@ -313,6 +367,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "35.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 30
   },
   //bench
   {
@@ -325,6 +381,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 33
   },
   {
     'image': "assets/images/home_page2/img_14.png",
@@ -336,6 +394,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 22
   },
   {
     'image': "assets/images/home_page2/img_15.png",
@@ -347,6 +407,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 60
   },
   {
     'image': "assets/images/home_page2/img_16.png",
@@ -358,6 +420,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "9.5",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 12
   },
   //lamp
   {
@@ -370,6 +434,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "50.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 25
   },
   {
     'image': "assets/images/data/img_10.png",
@@ -381,6 +447,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "20.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 35
   },
   {
     'image': "assets/images/data/img_8.png",
@@ -392,6 +460,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "44.8",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 52
   },
   {
     'image': "assets/images/home_page2/img.png",
@@ -403,6 +473,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "44.8",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 10
   },
   //carpet
   {
@@ -415,6 +487,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "13.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 91
   },
   {
     'image': "assets/images/home_page2/img_17.png",
@@ -426,6 +500,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "13.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 48
   },
   {
     'image': "assets/images/home_page2/img_18.png",
@@ -437,6 +513,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "13.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 39
   },
   {
     'image': "assets/images/home_page2/img_19.png",
@@ -448,6 +526,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "13.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 33
   },
   //curtain
   {
@@ -460,6 +540,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "31.7",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 66
   },
   {
     'image': "assets/images/home_page2/img_20.png",
@@ -471,6 +553,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "31.7",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 49
   },
   {
     'image': "assets/images/home_page2/img_21.png",
@@ -482,6 +566,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "31.7",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 24
   },
   {
     'image': "assets/images/home_page2/img_22.png",
@@ -493,6 +579,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "31.7",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 41
   },
   //nightstand
   {
@@ -505,6 +593,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "25.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 12
   },
   {
     'image': "assets/images/home_page2/img_23.png",
@@ -516,6 +606,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "25.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 20
   },
   {
     'image': "assets/images/home_page2/img_24.png",
@@ -527,6 +619,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "25.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 45
   },
   {
     'image': "assets/images/home_page2/img_25.png",
@@ -538,6 +632,8 @@ List<Map<String, dynamic>> myData = [
     'discount': "25.0",
     'description':
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    'qty': 1,
+    'stock': 9
   },
 ];
 

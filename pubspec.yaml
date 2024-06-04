@@ -68,6 +68,7 @@ flutter:
     - assets/images/imagead/
     - assets/images/home_page2/
     - assets/icon/
+    - assets/cart_empty.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
