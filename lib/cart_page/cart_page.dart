@@ -68,7 +68,7 @@ class _cartPageState extends State<cartPage> {
                         height: h * 0.1,
                         width: w,
                         margin: const EdgeInsets.all(10),
-                        // color: Colors.brown.withOpacity(0.5),
+                        
                         padding: const EdgeInsets.all(10),
                         child: Row(children: [
                           Container(
