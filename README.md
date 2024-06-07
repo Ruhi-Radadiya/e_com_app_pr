@@ -46,7 +46,7 @@
 <hr>
 
 * Flutter
-* Dependency : flutter_slidable
+* Dependency : flutter_slidable , flutter_rating_bar
 * Dart
 * Tools : Android Studio
 <hr>
