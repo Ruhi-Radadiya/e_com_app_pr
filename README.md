@@ -18,6 +18,9 @@
 
 ### 2.Facilitate Easy Product Discovery:
 * Provide an intuitive and responsive user interface for browsing and searching products. Implement advanced filtering and sorting options to help users find products that meet their needs.
+
+### 3.Cart Management:
+* Users can review and manage the contents of their shopping cart, adjusting quantities or removing items as needed.
 <hr>
 
 # Key Features:
