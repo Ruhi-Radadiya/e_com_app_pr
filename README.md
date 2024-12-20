@@ -52,21 +52,18 @@
 <hr>
 
 # Images:
-
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/9209f962-0a55-41c6-ad6b-c06c437747de" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/a911e10c-36a8-4792-8186-f1b7c3f75cf9" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/bdc103f1-9218-4363-8b78-62bfe188c75a" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/10904783-4067-4e8b-ac60-046e3de67ee8" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/b2488d9f-7a4a-4bb3-9947-3cab71b38069" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/c96c9460-5788-42c8-8a28-b06503b1387b" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/d5c0de20-eda2-4ad6-933a-5ffdf1c7b2c2" width=250px>
 <img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/efc275df-cb9e-4912-aad6-67d62f53db9d" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/fa42df5f-1133-41d4-b059-2ed0ceeb04c5" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/dff7c286-dd2a-49c0-8cba-51cf73c32d0e" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/46512c8e-c742-4166-824f-313d402b0871" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/30a80cc7-57d7-4358-8829-92b86f536d3d" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/df506561-9e52-41c2-9f95-b0f4caebb8dc" width=250px>
-<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/a3a2f0bd-9b33-461f-95f4-0484edd0146e" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/d5c0de20-eda2-4ad6-933a-5ffdf1c7b2c2" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/c96c9460-5788-42c8-8a28-b06503b1387b" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/b2488d9f-7a4a-4bb3-9947-3cab71b38069" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/10904783-4067-4e8b-ac60-046e3de67ee8" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/bdc103f1-9218-4363-8b78-62bfe188c75a" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/a911e10c-36a8-4792-8186-f1b7c3f75cf9" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/9209f962-0a55-41c6-ad6b-c06c437747de" width=250px>
 <img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/e287801c-59cf-4ed7-8dcf-ecc7f0e69d57" width=250px>
-
-
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/a3a2f0bd-9b33-461f-95f4-0484edd0146e" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/df506561-9e52-41c2-9f95-b0f4caebb8dc" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/30a80cc7-57d7-4358-8829-92b86f536d3d" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/46512c8e-c742-4166-824f-313d402b0871" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/dff7c286-dd2a-49c0-8cba-51cf73c32d0e" width=250px>
+<img src="https://github.com/Ruhi-Radadiya/e_com_app_pr/assets/150025610/fa42df5f-1133-41d4-b059-2ed0ceeb04c5" width=250px>
